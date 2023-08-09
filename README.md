@@ -4,12 +4,12 @@ Welcome to the Peppermint Robotics Career Page assignment! This assignment showc
 
 ## Hosted URL
 
-https://chatting-app-jjtv.onrender.com/
+https://getpeppermint.onrender.com/
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/rajendrasarak90/React-Chat-App.git`
-2. Navigate to the project directory: `cd peppermint-career-page`
+1. Clone the repository: `git clone https://github.com/rajendrasarak90/Peppermint-Robotics-Assignment`
+2. Navigate to the project directory: `cd peppermint-robotics-assignment`
 3. Install the dependencies: `npm install`
 4. Start the application: `npm run dev`
 5. You will see the link with port on which server will be running.
@@ -21,3 +21,9 @@ https://chatting-app-jjtv.onrender.com/
 2. **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 3. **Vite:** A fast build tool and development server.
 4. **Git:** Version control system for tracking changes.
+
+## Screenshots
+
+![Index Page](<src/screenshots/Screenshot%20(160).png>)
+![Career Page](<src/screenshots/Screenshot%20(161).png>)
+![Career Page](<src/screenshots/Screenshot%20(162).png>)
