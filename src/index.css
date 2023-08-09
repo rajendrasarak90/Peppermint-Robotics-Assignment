@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    @apply bg-green-50 font-sans;
+}
+
+.sub-job{
+    @apply m-4;
+}
+.sub-job-title{
+    @apply  font-semibold text-gray-500 mb-1;
+}
+.sub-job-desc{
+    @apply ml-3 text-sm text-gray-700;
+}

@@ -1,0 +1,40 @@
+[
+
+    {
+        "title": "Software Development Engineer II",
+        "description": "The role is for SDE1 - Frontend as part of the engineering team. As an SDE1, you’ll be working on developing our Peppermint Services platform that’s used by our customers for monitoring our robots. You’ll also be expected to work on Peppermint Services Dashboard, Report Generation, Alert Management features. You’ll be expected to working with Flutter and Dart. We Peppermint heavily use Flutter across our applications, as it allows us to deploy applications on various platforms.",
+        "qualification":"BCA/B.E./BCS/B.TEC/MCA",
+        "skills": "Python, API, MongoDB, Dockers, Flutter, Mobile/Web App Development",
+        "experience" : "3-4"
+    },
+    {
+        "title": "Frontend Developer (React JS)",
+        "description": "The role is for Frontend Developer as part of the engineering team. As an SDE1, you’ll be working on developing our Peppermint Services platform that’s used by our customers for monitoring our robots. You’ll also be expected to work on Peppermint Services Dashboard, Report Generation, Alert Management features. You’ll be expected to working with Flutter and Dart.",
+        "qualification":"BCA/B.E./BCS/B.TEC/MCA",
+        "skills": "ReactJS, JavaScript, Java, AWS, GIT, API, NOSQL, Redux, HTML",
+        "experience" : "0-1"
+    },
+    {
+        "title": "Backend Developer (Node JS)",
+        "description": "The role is for SDE1 - Frontend as part of the engineering team. As an SDE1, you’ll be working on developing our Peppermint Services platform that’s used by our customers for monitoring our robots. You’ll also be expected to work on Peppermint Services Dashboard, Report Generation, Alert Management features. You’ll be expected to working with Flutter and Dart. We Peppermint heavily use Flutter across our applications, as it allows us to deploy applications on various platforms.",
+        "qualification":"BCA/B.E./BCS/B.TEC/MCA",
+        "skills": "JavaScript, Node.js, Express.js, MongoDB, API, NOSQL, HTML, CSS",
+        "experience" : "0-1"
+    },
+    {
+        "title": "Robotics Engineer I",
+        "description": "The role is for SDE1 - Frontend as part of the engineering team. As an SDE1, you’ll be working on developing our Peppermint Services platform that’s used by our customers for monitoring our robots. You’ll also be expected to work on Peppermint Services Dashboard, Report Generation, Alert Management features. You’ll be expected to working with Flutter and Dart. We Peppermint heavily use Flutter across our applications, as it allows us to deploy applications on various platforms.",
+        "qualification":"BCA/B.E./BCS/B.TEC/MCA",
+        "skills": "C++, ROS1/ROS2, SLAM, OpenCV, CUDA, Pytorch, TensorFlow, Navigation",
+        "experience" : "2-3"
+    },
+   
+    {
+        "title": "Supply Chain Engineer",
+        "description": "The role is for SDE1 - Frontend as part of the engineering team. As an SDE1, you’ll be working on developing our Peppermint Services platform that’s used by our customers for monitoring our robots. You’ll also be expected to work on Peppermint Services Dashboard, Report Generation, Alert Management features. You’ll be expected to working with Flutter and Dart. We Peppermint heavily use Flutter across our applications, as it allows us to deploy applications on various platforms.",
+        "qualification":"BCA/B.E./BCS/B.TEC/MCA",
+        "skills": "Lean Six Sigma, Supply chain management, Inventory, JIT",
+        "experience" : "1-2"
+    }
+
+]
